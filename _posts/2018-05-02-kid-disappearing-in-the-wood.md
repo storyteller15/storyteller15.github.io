@@ -19,6 +19,7 @@ Boy 2 smiled. <br>
 “What?” Boy 1 said. <br>
 “The door is open.” Boy 2 said. <br>
 “Let’s go” He added. <br>
+<img src="https://image.ibb.co/h17DgJ/woods.jpg" alt="woods" border="0">
 “I don’t think that’s a good idea.” Boy 1 said. <br>
 “Do you seriously believe that kids go missing here? It’s all nonsense.” Boy 2 said as he walked into the half open house. <br>
 “I do…I do believe…” Boy 1 said. <br>

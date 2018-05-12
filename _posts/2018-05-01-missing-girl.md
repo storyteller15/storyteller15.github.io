@@ -21,6 +21,7 @@ The girl looked confused. She was now sitting on the hospital bed. <br>
 “Nice?” reporter asked. <br>
 “Yes, they came towards me, mostly bunnies…they sat down next to me…they said I could eat them, it’s okay.” She said. <br>
 The reporter smiled in confusion. <br>
+<img src="https://image.ibb.co/d685BJ/missing_child.jpg" alt="missing_child" border="0">
 “Sweetie, you were missing for 3 months, you must have seen or heard things that weren’t there, a group of people found you in the pipelines yesterday morning, passed out.” Reporter told the girl. 
 “Passed out?” she asked. <br>
 “Yes dear, you were unwell, you weren’t in your normal state, all dirty, some scratch marks here and there, are you sure nothing tried to harm you?” reporter asked again. <br>

@@ -11,13 +11,14 @@ tags:
  - news
 ---
 
-“Help me…” Tom stuttered out. He couldn’t get out of the car due to the branch that had pierced into his stomach through the windshield. “Josh…help me…” Tom pleaded. </br>
+“Help me…” Tom stuttered out. He couldn’t get out of the car due to the branch that had pierced into his stomach through the windshield. “Josh…help me…” Tom pleaded. <br>
 Josh dragged himself out of the car and looked behind towards his wife who was slowly regaining consciousness. <br>
 “Help Jenn first…” Tom said. Josh looked back at Tom. He was struggling. <br>
 “AGH…FUCK…Josh hurry…” Tom screamed. <br>
 Josh took out his phone first and called for an ambulance before doing anything. He then grabbed a branch and slammed the back window open and grabbed his wife’s feet, trying to pull her out. <br>
 “Ugh…” Josh struggled. “Almost there…” He said. Josh had minor injuries only as seen from his body and his wife was still partly unconscious. <br>
 “Josh…” Jenn tried to speak. <br>
+<img src="https://image.ibb.co/cLW6kd/173198726.jpg" alt="173198726" border="0">
 “Calm down babe, everything will be okay…” He assured her. <br>
 “Josh…” Tom was now struggling even harder to move and every time he struggled, more blood gushed out of his belly. <br>
 Josh looked back at Tom for a second and looked back at his wife in his arms. <br>

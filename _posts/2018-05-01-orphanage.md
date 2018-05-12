@@ -14,6 +14,7 @@ tags:
 “Listen kid, you tell us that you did this, and we might believe you, you showed us the things you used for arson because we said we needed evidence, you told us you did it to “save them” and that part we don’t understand.” The officer said. “So why don’t you tell us what that means…” he added. 
 “Officer, I lived there…I know what was going on there…and it wasn’t something humane. It was torture. It was sadism. And I tried going against them, I told them that I’ll go to the police and that’s when they locked me up in that dreaded room. Months after months I spent my time there, listening to the suffering of my fellow mates and I just couldn’t take it anymore. I had to end the suffering, whenever I got the chance, my mates brought stuff to me that helped me, that helped them…” the boy said. <br>
 The officer shook his head. “So what you’re saying is that your mates were okay with the idea of you burning down the place and killing dozens of innocent people with it?” the officer asked. 
+<img src="https://image.ibb.co/fOsCQd/burning_building.jpg" alt="burning_building" border="0">
 “Yes. Yes they were. They wanted to end the suffering officer, I wanted to as well, but sadly I’m still here…” the boy answered. <br>
 The officer walked away from the boy and towards his partner. <br>
 “Obviously this is bullshit, what kind of “mates” want to be set on fire?” His partner put forward. 
