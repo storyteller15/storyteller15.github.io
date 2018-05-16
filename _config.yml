@@ -1,11 +1,11 @@
 # Site settings
-title: "Escape Den"
+title: "Panaroma"
 email: naveentorres555@gmail.com
 description: "A dark blog for short stories"
 baseurl: ""
 url: "http://storyteller15.github.io"
-title_description: "A collection of short intriguing stories."
-title_image: "https://image.ibb.co/f9FSrJ/286244.jpg"
+title_description: "A collection of intriguing short stories."
+title_image: "https://image.ibb.co/cMKbAd/603562.jpg"
 google_analytics: "UA-20365477-4"
 disqus_account: cartenoire
 github_repository: https://github.com/jacobtomlinson/carte-noire
@@ -14,15 +14,8 @@ post_limit: 20
 
 # Social usernames/URLs
 twitter_username: NavANDAli
-github_username:  storyteller15
-instagram_username: naveen750
-reddit_username: 
-google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
-facebook_link: naveen.nair.9
-
-# Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+github_username: storyteller15
+instagram_username: thetenseventy
 
 # Build settings
 markdown: kramdown

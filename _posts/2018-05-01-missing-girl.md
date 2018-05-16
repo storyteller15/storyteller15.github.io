@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Missing girl found hiding in pipelines after harsh 3 months
-date:       2014-06-08 12:32:18
+date:       2017-10-08 12:32:18
 summary:    Short story
 categories: news
 thumbnail: jekyll

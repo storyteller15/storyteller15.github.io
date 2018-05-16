@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Two killed in freak accident, Lone survivor in tears
-date:       2014-06-08 12:32:18
+date:       2018-01-14 12:32:18
 summary:    Short story
 categories: news
 thumbnail: jekyll
